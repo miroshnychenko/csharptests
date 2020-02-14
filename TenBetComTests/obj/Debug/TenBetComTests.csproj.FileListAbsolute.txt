@@ -1,0 +1,12 @@
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/bin/Debug/TenBetComTests.dll
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/bin/Debug/TenBetComTests.pdb
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/bin/Debug/nunit.framework.dll
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/bin/Debug/WebDriver.dll
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/bin/Debug/WebDriver.Support.dll
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/bin/Debug/nunit.framework.xml
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/bin/Debug/WebDriver.xml
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/bin/Debug/WebDriver.Support.xml
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/obj/Debug/TenBetComTests.csprojResolveAssemblyReference.cache
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/obj/Debug/TenBetComTests.csproj.CoreCompileInputs.cache
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/obj/Debug/TenBetComTests.dll
+/Users/serhii/Documents/Auto/csharp/TenBetComTests/TenBetComTests/obj/Debug/TenBetComTests.pdb
